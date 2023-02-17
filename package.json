@@ -1,6 +1,6 @@
 {
   "name": "sketchfab-url-parser",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Takes the assetlink and extracts asset_id and asset name.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "Qazi Arsalan Shah",
   "license": "ISC",
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "https://github.com/qaziArsalan/Sketchfab-ModelUrl-Parser"
   }
