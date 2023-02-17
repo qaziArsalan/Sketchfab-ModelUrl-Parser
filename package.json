@@ -1,0 +1,11 @@
+{
+  "name": "sketchfab-url-parser",
+  "version": "2.0.2",
+  "description": "Takes the assetlink and extracts asset_id and asset name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qazi Arsalan Shah",
+  "license": "ISC"
+}
